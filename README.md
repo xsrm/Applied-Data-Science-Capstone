@@ -27,4 +27,4 @@ Capstone Project - The Battle of Neighborhoods:
 * Analyzed the optimal location for a travel agency business in Singapore.
 * Produced a report. The report can be found [here](https://github.com/xsrm/Applied-Data-Science-Capstone/blob/master/Capstone%20Project%20Report.pdf).
 * The code can be viewed [here](https://nbviewer.jupyter.org/github/xsrm/Applied-Data-Science-Capstone/blob/master/Capstone%20Project.ipynb) using Jupyter nbviewer for better formatting.
-* Wrote an article on LinkedIn. The article can be found [here]().
+* Wrote an article on LinkedIn. The article can be found [here](https://www.linkedin.com/pulse/location-analysis-travel-agency-business-singapore-michael-).
